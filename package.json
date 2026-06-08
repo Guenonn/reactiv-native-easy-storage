@@ -1,0 +1,23 @@
+{
+  "name": "react-native-easy-storage",
+  "version": "1.0.4",
+  "description": "A lightweight, secure, and typed wrapper around AsyncStorage for React Native applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "keywords": [
+    "react-native",
+    "asyncstorage",
+    "storage",
+    "localstorage",
+    "cache"
+  ],
+  "author": "OpenSource Contributor",
+  "license": "MIT",
+  "peerDependencies": {
+    "@react-native-async-storage/async-storage": "^1.23.1",
+    "react": "^18.2.0",
+    "react-native": "*"
+  }
+}
